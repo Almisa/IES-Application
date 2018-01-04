@@ -1,0 +1,5 @@
+com\mycompany\mqtttest\mainDB.class
+com\mycompany\mqtttest\MariaDB.class
+com\mycompany\mqtttest\Maria_Select.class
+com\mycompany\mqtttest\MyServlet.class
+com\mycompany\mqtttest\Subscriber.class
